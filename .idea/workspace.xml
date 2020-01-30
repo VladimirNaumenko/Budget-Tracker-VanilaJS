@@ -2,41 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f76a895-283e-4335-9241-ec52086f39e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/SourceIT_final_project-4-add-item.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/header-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/metall-bg-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/metall-bg-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/metall-bg-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/metall-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src.rar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/View.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/helper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Budget.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Categories.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Item.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/basic/layout.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/basic/reset.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/basic/variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/img/close-cross-in-circular-outlined-interface-button-pngrepo-com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/img/cross.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/manage-budget.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/statistics.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +136,7 @@
       <workItem from="1578766609471" duration="644000" />
       <workItem from="1579182055126" duration="728000" />
       <workItem from="1580425131181" duration="193000" />
-      <workItem from="1580425325950" duration="272000" />
+      <workItem from="1580425325950" duration="1922000" />
     </task>
     <servers />
   </component>
