@@ -1,0 +1,63 @@
+.manage-budget {
+  padding: 15px 0;
+  //background-color: #7F7B82;
+}
+
+.manage-budget-content {
+
+  justify-content: center;
+  width: 40%;
+  &--upper{
+display : flex;
+  }
+  &--lower{
+display : flex;
+    margin: 10px 0;
+  }
+}
+
+.dropdown, .input {
+  background-color: #FFFFFF;
+  background-image: none;
+  border: 0px solid transparent;
+  border-radius: 4px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+  color: $black;
+  dispjlay: block;
+  font-size: 18px;
+  padding: 20px 6px;
+  transition: border-color 0.15s ease-in-out 0s, box-shadow 0.15s ease-in-out 0s;
+&--category {
+  margin: 0 10px;
+}
+  &--description {
+    flex-width: 80%;
+    margin-right: 10px;
+    padding-right: 45px;
+
+
+    transition: background-color 0.3s ease;
+    transition: color 0.3s ease;
+  }
+
+  &--value {
+    width: 70px;
+    padding-left: 20px;
+    margin: 0;
+  }
+
+  &::placeholder {
+    font-family: $mainFont;
+    color: grey;
+  }
+
+  &:focus {
+    border-color: #66afe9;
+    outline: 0;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102,175,233,.6);
+  }
+}
+
+.btn-submit {
+  background-color: #E8DC00;
+}

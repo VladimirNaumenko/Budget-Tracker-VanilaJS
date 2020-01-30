@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f76a895-283e-4335-9241-ec52086f39e7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Tw8XYGe1oVJfboV8XuoG66Tn8w" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\SourceIT_final_project-4-add-item\src\models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\myFinal\public" />
+      <recent name="C:\SourceIT_final_project-4-add-item\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myFinal/dist/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myFinal/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SourceIT_final_project-4-add-item/dist/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html (2)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f76a895-283e-4335-9241-ec52086f39e7" name="Default Changelist" comment="" />
+      <created>1574359837169</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574359837169</updated>
+      <workItem from="1574359838591" duration="1257000" />
+      <workItem from="1574364591661" duration="148000" />
+      <workItem from="1574529643118" duration="635000" />
+      <workItem from="1574596676180" duration="599000" />
+      <workItem from="1574610002267" duration="2484000" />
+      <workItem from="1574688903569" duration="1412000" />
+      <workItem from="1574707625418" duration="9209000" />
+      <workItem from="1574767583521" duration="33558000" />
+      <workItem from="1574873947513" duration="5373000" />
+      <workItem from="1574962938946" duration="602000" />
+      <workItem from="1574970887758" duration="7284000" />
+      <workItem from="1574983933771" duration="4300000" />
+      <workItem from="1575033722523" duration="1719000" />
+      <workItem from="1575036340469" duration="18312000" />
+      <workItem from="1575111887062" duration="68000" />
+      <workItem from="1575112074415" duration="8145000" />
+      <workItem from="1575125350989" duration="14250000" />
+      <workItem from="1575142479544" duration="321000" />
+      <workItem from="1575142878186" duration="260000" />
+      <workItem from="1575143201393" duration="1822000" />
+      <workItem from="1575214569973" duration="9251000" />
+      <workItem from="1575282189021" duration="12314000" />
+      <workItem from="1575412502860" duration="1889000" />
+      <workItem from="1575479015023" duration="161000" />
+      <workItem from="1575493940541" duration="4863000" />
+      <workItem from="1575551074362" duration="3435000" />
+      <workItem from="1575637258575" duration="1417000" />
+      <workItem from="1575641156530" duration="76000" />
+      <workItem from="1575641886024" duration="2089000" />
+      <workItem from="1575663164126" duration="55000" />
+      <workItem from="1575663221350" duration="8696000" />
+      <workItem from="1575716896137" duration="1930000" />
+      <workItem from="1575732861875" duration="50000" />
+      <workItem from="1575734273155" duration="1388000" />
+      <workItem from="1575823289754" duration="379000" />
+      <workItem from="1575829225347" duration="3250000" />
+      <workItem from="1576439113670" duration="1493000" />
+      <workItem from="1577031004775" duration="735000" />
+      <workItem from="1577213255088" duration="867000" />
+      <workItem from="1577226149465" duration="573000" />
+      <workItem from="1577293665972" duration="1939000" />
+      <workItem from="1577311987874" duration="11000" />
+      <workItem from="1577312903659" duration="1284000" />
+      <workItem from="1578156783332" duration="12000" />
+      <workItem from="1578751132734" duration="156000" />
+      <workItem from="1578766609471" duration="644000" />
+      <workItem from="1579182055126" duration="728000" />
+      <workItem from="1580425131181" duration="193000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="698" y="250" key="FileChooserDialogImpl" timestamp="1580425321982">
+      <screen x="0" y="0" width="1834" height="991" />
+    </state>
+    <state x="698" y="250" key="FileChooserDialogImpl/-1920.360.1376.733/0.0.1834.991@0.0.1834.991" timestamp="1576442189819" />
+    <state x="698" y="250" key="FileChooserDialogImpl/-1920.370.1376.733/0.0.1834.991@0.0.1834.991" timestamp="1580425321982" />
+    <state x="698" y="250" key="FileChooserDialogImpl/-1920.92.1376.733/0.0.1834.991@0.0.1834.991" timestamp="1577313547148" />
+    <state x="1029" y="132" width="597" height="789" key="find.popup" timestamp="1580425271382">
+      <screen x="0" y="0" width="1834" height="991" />
+    </state>
+    <state x="1029" y="132" width="597" height="789" key="find.popup/-1920.360.1376.733/0.0.1834.991@0.0.1834.991" timestamp="1575669841636" />
+    <state x="1029" y="132" width="597" height="789" key="find.popup/-1920.370.1376.733/0.0.1834.991@0.0.1834.991" timestamp="1580425271382" />
+  </component>
+</project>

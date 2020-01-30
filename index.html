@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Budget tracker</title>
+	<meta charset="UTF-8"/>
+	<link href="https://fonts.googleapis.com/css?family=Anton&display=swap" rel="stylesheet">
+</head>
+
+<body>
+<section class="budget-tracker">
+	
+	<div class="container  container--main">
+		
+		<header class="header">
+			
+				<div class="header-content">
+					<h2 class="header-text"><span>March</span></h2>
+					<h1 class="header-budget">0</h1>
+					<div class="budget-block budget-block--income">
+						<span class="budget-block-text">income</span>
+						<span class="budget-block-value">+ 0</span>
+					</div>
+					<div class="budget-block budget-block--expense">
+						<span class="budget-block-text">expenses</span>
+						<div>
+							<span class="budget-block-value">- 0</span>
+							<span class="budget-block-precent"></span>
+						</div>
+					</div>
+				</div>
+			
+			<section class="manage-budget">
+			
+					<div class="manage-budget-content">
+						<div class="manage-budget-content--upper">
+							<select id="selector" class="dropdown">
+								<option value="inc">Income</option>
+								<option value="exp">Expenses</option>
+							</select>
+							<select id="category" class="dropdown dropdown--category">
+								<option value="food">Select category</option>
+								<option value="food">Food</option>
+								<option value="salary">Salary</option>
+								<option value="freelance">Freelance</option>
+								<option value="gift">Gift</option>
+								<option value=""></option>
+							</select>
+							<input
+									id="input-value"
+									type="text"
+									placeholder="Value"
+									class="input input--value"
+									value=""
+							/>
+						</div>
+						<div class="manage-budget-content--lower">
+							<input
+									id="input-description"
+									type="text"
+									placeholder="Add description"
+									class="input input--description"
+									value=""
+									minlength="4"
+									maxlength="20"
+							/>
+							
+							
+							<button id="btn-submit" type="button" class="btn btn-submit">
+								Submit
+							</button>
+						</div>
+						<button id="btn-reset" type="button" class="btn-reset btn  ">
+							Reset
+						</button>
+					</div>
+	
+			</section>
+		</header>
+		<main class="main">
+			
+			<section class="statistics" id="statistics-container">
+				<div id="stat-content" class="statistics-content">
+					<div class="statistics-box">
+						<h2 class="statistics-header statistics-header--income">Income:</h2>
+						<ul id="incomes-list" class="statistics-list">
+						</ul>
+					</div>
+					<div class="statistics-box">
+						<h2 class="statistics-header statistics-header--expense">Expenses:</h2>
+						<ol id="expenses-list" class="statistics-list"></ol>
+					</div>
+					<!--<div class="statistics-box">
+						<div class="categories-header">
+							<h2 class="statistics-header statistics-header--expense">Categories</h2>
+							<select id="category-chose" class="dropdown statistics-header">
+								<option value="food">Food</option>
+								<option value="transport">Transport</option>
+							</select>
+						</div>
+						<ul id="categories-list" class="statistics-list"></ul>
+					</div>-->
+				</div>
+			</section>
+		</main>
+	</div>
+</section>
+<script src="src/index.js">
+</script>
+</body>
+
+</html>
+<style>
+	.total{
+color: #FFF200;
+		transition: all 2s;
+	}
+
+
+</style>
