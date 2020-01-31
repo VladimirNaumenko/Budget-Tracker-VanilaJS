@@ -8,6 +8,8 @@
       <change beforePath="$PROJECT_DIR$/src/helper.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/helper.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/models/Budget.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Budget.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/models/Item.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Item.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/basic/layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/basic/layout.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/header.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +143,7 @@
       <workItem from="1578766609471" duration="644000" />
       <workItem from="1579182055126" duration="728000" />
       <workItem from="1580425131181" duration="193000" />
-      <workItem from="1580425325950" duration="5910000" />
+      <workItem from="1580425325950" duration="6193000" />
     </task>
     <servers />
   </component>
