@@ -4,7 +4,8 @@ export const myCalculateId = () => {
     i++;
     return i;
 };
-export function q(selector){
+
+export function q(selector) {
     return document.querySelector(selector);
 }
 
@@ -17,44 +18,41 @@ export const calculateMoney = (arr, type) => {
 };
 
 export const showDate = (currentDate) => {
-   return  {
+    const date = currentDate.getDate()
+    const day = currentDate.getDay()
+    let minutes = currentDate.getMinutes();
+    let seconds = currentDate.getSeconds();
+    let hours = currentDate.getHours();
+    const addO = value => value<10? `0${value}`: value;
+    return {
         year: currentDate.getFullYear(),
         month: currentDate.getMonth(),
-        date: currentDate.getDate(),
-        day: currentDate.getDay(),
-        hours: currentDate.getHours(),
-        minutes: currentDate.getMinutes(),
-        seconds: currentDate.getSeconds(),
+        date: addO(date),
+        day: addO(day),
+        hours: addO(hours),
+        minutes: addO(minutes),
+        seconds: addO(seconds),
     };
 
 };
-export const categoryColors = (category)=>{
-    console.log(category)
-    if (category === "food"){
-        return "orange"
+export const categoryColors = (category) => {
+    console.log(category);
+    if (category === "food") {
+        return "orange";
     }
-    if (category==="salary"){
-return "green"
+    if (category === "salary") {
+        return "green";
     }
-    if (category==="freelance"){
-return "blue"
+    if (category === "freelance") {
+        return "blue";
     }
-    if (category==="gift"){
-return "pink"
+    if (category === "gift") {
+        return "pink";
     }
-    if(category === ""){
-        return "grey"
+    if (category === "") {
+        return "grey";
     }
 };
-
-
-
-
-
-
-
-
-
 
 
 export function demoRender() {
