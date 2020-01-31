@@ -38,7 +38,7 @@ class Application {
     }
 
     deleteItem() {
-        this.budget.myDeleteItem(this.budget, event.target.parentElement.parentElement.getAttribute("data-id"));
+        this.budget.myDeleteItem(this.budget, +event.target.parentElement.parentElement.getAttribute("data-id"));
         this.budget.calculateBudget();
         View.displayBudget(this.budget);
         (event.target.parentElement).parentElement.remove();

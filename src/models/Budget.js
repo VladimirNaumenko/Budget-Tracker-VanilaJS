@@ -11,28 +11,18 @@ class Budget {
         this.total = 0;
     }
 
-    addItem(type, category, description, value) {
+    addItem(...args) {
+        const [type, category, description, value] = [...args]
         let item = new Item(myCalculateId(), type, category, description, value);
         this.itemsContainer.push(item);
         this.calculateBudget();
         return item;
     }
 
-
     // тут можно сделать лучше черезе forEach (наверно)
     myDeleteItem(budget, id) {
-        let index;
-        for (let i = 0; i < budget.itemsContainer.length; i++) {
-            if (budget.itemsContainer[i].id == id) {
-                index = i;
-                console.log(index);
-            }
-            console.log(index);
-
-        }
-        budget.itemsContainer.splice(index, 1);
+        budget.itemsContainer = budget.itemsContainer.filter(el=> el.id !== id)
     }
-
 
     showBudget(budget) {
         console.log(budget);

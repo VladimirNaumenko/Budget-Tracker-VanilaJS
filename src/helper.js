@@ -28,6 +28,25 @@ export const showDate = (currentDate) => {
     };
 
 };
+export const categoryColors = (category)=>{
+    console.log(category)
+    if (category === "food"){
+        return "orange"
+    }
+    if (category==="salary"){
+return "green"
+    }
+    if (category==="freelance"){
+return "blue"
+    }
+    if (category==="gift"){
+return "pink"
+    }
+    if(category === ""){
+        return "grey"
+    }
+};
+
 
 
 

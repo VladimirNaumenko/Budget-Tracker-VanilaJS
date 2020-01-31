@@ -1,9 +1,10 @@
-import {showDate} from "../helper";
+import {showDate, categoryColors} from "../helper";
 
 //import Date from "../helper";
 
 class Item {
-    constructor(id, type, category, description, value) {
+    constructor(...args) {
+        const [id, type, category, description, value] = [...args]
         this.id = id;
         this.type = type;
         this.category = category;
@@ -14,7 +15,8 @@ class Item {
 
     render() {
         return `
-      <li class="income-item" data-type='inc' data-id='${this.id}'>
+      <li class="income-item" data-type='inc' data-id='${this.id}'
+       style='border-bottom-color:  ${categoryColors(this.category)}'>
       <div class="item-details">
         <span class="">${this.description}</span>
         <div>
